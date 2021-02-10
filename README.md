@@ -1,5 +1,5 @@
 # PowerBuddy-ASCOM-Driver
-<b>This is a win32 driver for the Arduino based PowerBuddy relay controller</b>
+<b>This is a Windows driver for the Arduino based PowerBuddy relay controller</b>
 
 This ASCOM switch driver is designed to work with the PowerBuddy by SimonTelescopium.<p>
 
